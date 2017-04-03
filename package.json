@@ -1,0 +1,17 @@
+{
+  "name": "pomelo",
+  "version": "0.0.1",
+  "description": "new gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "pomelo",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}

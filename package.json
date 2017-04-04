@@ -12,6 +12,7 @@
   "author": "pomelo",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.18.8"
+    "browser-sync": "^2.18.8",
+    "gulp-less": "^3.3.0"
   }
 }
